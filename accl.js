@@ -17,7 +17,7 @@ if (avtags == "ticketquarter") {
 
 // TQ
 if (avtags == "ticketquarter") {
-	
+	$( "#searchBox" ).hide();
 }
 
 // Beatles Story
